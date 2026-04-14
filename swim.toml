@@ -1,1 +1,5 @@
 name = "ttsky_verilog_template"
+
+
+[libraries]
+quickscope.git = "https://gitlab.com/TheZoq2/quickscope.git"
